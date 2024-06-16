@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/task1/static/css/main.e5ce7085.css",
+    "main.js": "/task1/static/js/main.304f8096.js",
+    "static/js/453.d1ead18a.chunk.js": "/task1/static/js/453.d1ead18a.chunk.js",
+    "static/media/Rectangle2.png": "/task1/static/media/Rectangle2.dca88f76ed5feeea5c5f.png",
+    "static/media/Rectangle5.1.png": "/task1/static/media/Rectangle5.1.0546c1b4f0505de5eac7.png",
+    "static/media/Rectangle5.2.png": "/task1/static/media/Rectangle5.2.341067a2ba789339d4a0.png",
+    "static/media/Rectangle5.png": "/task1/static/media/Rectangle5.1e389d09320a392a86e1.png",
+    "static/media/job.svg": "/task1/static/media/job.35f34125520e01f0f32beb9ef13de0bd.svg",
+    "static/media/edu.svg": "/task1/static/media/edu.b0361518ab69e1a3f0b7c96a35c362ce.svg",
+    "static/media/meet.svg": "/task1/static/media/meet.903175c747e99e5839fcd5960e9ffcc3.svg",
+    "static/media/pen.svg": "/task1/static/media/pen.650bf30e9e43ffd955d2d0cec73aca5e.svg",
+    "static/media/msg.svg": "/task1/static/media/msg.3bc62af85ec39214f44c2aaca2e1ab0d.svg",
+    "static/media/threedots.svg": "/task1/static/media/threedots.bca2e02235970bda136fb6768b25ab81.svg",
+    "index.html": "/task1/index.html",
+    "static/media/magGlass.svg": "/task1/static/media/magGlass.8bdeb033dbf97a73ecfd1a71f4d4ad68.svg",
+    "static/media/location.svg": "/task1/static/media/location.1d208474875ea4d1ca5131081edb5b8d.svg",
+    "main.e5ce7085.css.map": "/task1/static/css/main.e5ce7085.css.map",
+    "main.304f8096.js.map": "/task1/static/js/main.304f8096.js.map",
+    "453.d1ead18a.chunk.js.map": "/task1/static/js/453.d1ead18a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5ce7085.css",
+    "static/js/main.304f8096.js"
+  ]
+}
