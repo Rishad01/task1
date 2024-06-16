@@ -1,0 +1,27 @@
+.headerBack{
+background-image: url(./assets/Rectangle2.png);
+background-size: cover;
+min-height: 236px;
+background-repeat: no-repeat;
+background-position: center;
+color:white;
+text-align: left;
+}
+
+
+.pen{
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.threedots{
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.truncate-text {
+display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  }
